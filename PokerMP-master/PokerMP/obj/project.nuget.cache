@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "U0Q0QxBMpJOXadTMWan3yzs/+nEeldo2MMVGW9KqKL62NcUYX8fNYYr799qCqGY7WPZaRY8u315rUlAreV+YUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Julica\\Documents\\PokerMP-master\\PokerMP\\PokerMP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Julica\\.nuget\\packages\\citizenfx.core.server\\1.0.1547\\citizenfx.core.server.1.0.1547.nupkg.sha512",
+    "C:\\Users\\Julica\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Julica\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Julica\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
